@@ -75,4 +75,6 @@ if F==N:print("• DISTANCE BETWEEN TWO CHARGES IF NULL POINT IS GIVEN for Unlik
 if F==P:print("• DISTANCE BETWEEN TWO CHARGES IF NULL POINT IS GIVEN for like (FROM Q1)",t)
 if F==R:print("• AMOUNT OF 1ST CHARGE (if null point is given) = ",z)
 if F==T:print("• AMOUNT OF 2ND CHARGE (if null point is given) = ",E)
+#ican change it 
+
 
